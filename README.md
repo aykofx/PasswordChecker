@@ -17,8 +17,11 @@ It keeps asking for a password until a strong one is entered.
 ## ▶️ Example Output
 
 Enter your password: hallo123
+
 Your password must contain at least one uppercase letter
+
 Your password must contain at least one special character
 
 Enter your password: Hallo123!
+
 Hallo123! is a very secure password.
